@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Noman</h1>
+<h3 align="center">Backend Developer | AI Engineer | Building Production-Ready Systems</h3>
 
-<!--
-**noman598/noman598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Building **AI-powered applications & backend systems**
+* 🌱 Learning **System Design, Cloud Architecture & Scalable AI Systems**
+* 💡 Interested in **Backend Engineering, AI Engineering & Automation**
+* ⚡ Focused on writing **clean, production-ready code**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages  
+`Python` • `SQL`
+
+### AI Engineering  
+`RAG` • `Vector Databases` • `LLM APIs` • `Prompt Engineering`  
+`Fine-Tuning (QLoRA, PEFT)` • `Transformers` • `CrewAI` • `LlamaIndex`
+
+### Backend & Infrastructure  
+`FastAPI` • `Docker` • `Kafka` • `PySpark` • `Prefect`
+
+### Data & Databases  
+`PostgreSQL` • `Pandas` • `NumPy`
+
+### Tools  
+`Git` • `ServiceNow`
+
+## 🔬 Currently Working On
+
+🚧 **[AI-Powered Personalized Developer News Digest](https://devsnack-frontend.onrender.com/)**
+
+*check pinned repositories for recent work*
+
+---
+
+<p align="center">
+Building software with scalability, clean architecture and real-world impact 🚀
+</p>
