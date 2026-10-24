@@ -30,12 +30,6 @@
 ### Tools  
 `Git` • `ServiceNow`
 
-## 🔬 Currently Working On
-
-🚧 **[AI-Powered Personalized Developer News Digest](https://devsnack-frontend.onrender.com/)**
-
-*check pinned repositories for recent work*
-
 ---
 
 <p align="center">
