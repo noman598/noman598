@@ -18,7 +18,7 @@
 `Python` • `SQL`
 
 ### AI Engineering  
-`RAG` • `Vector Databases` • `LLM APIs` • `Prompt Engineering`  
+`LangChain` • `LangGraph` •`Hybrid RAG` • `Vector Databases` • `LLM APIs` • `Prompt Engineering`  
 `Fine-Tuning (QLoRA, PEFT)` • `Transformers` • `CrewAI` • `LlamaIndex`
 
 ### Backend & Infrastructure  
